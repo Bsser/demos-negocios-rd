@@ -66,9 +66,9 @@ def demo(n):
 
 def portada(videos):
     vids = "".join(f"<div><b>{e(t)}</b><video src='v/{v}' controls preload='none' playsinline></video></div>" for t, v in videos)
-    filas = [("Página web sencilla", "Tu negocio en Google y en el celular: servicios, horario, ubicación y botón de WhatsApp. Hosting gratis incluido.", "RD$5,000 (pago único)"),
+    filas = [("Página web sencilla", "Tu negocio en internet y en el celular: servicios, horario, ubicación y botón de WhatsApp. Hosting gratis incluido.", "RD$5,000 (pago único)"),
              ("Videos para Instagram, TikTok y estado de WhatsApp", "Videos verticales de 20-40 s con tus fotos, texto y voz dominicana.", "RD$1,500 c/u · 4 por RD$4,000"),
-             ("Menú digital con código QR", "Tu menú en el celular del cliente; lo actualizas cuando quieras. Te damos el QR para imprimir.", "RD$2,500"),
+             ("Menú digital con código QR", "Tu menú en el celular del cliente; cuando cambies precios, te lo actualizamos. Te damos el QR para imprimir.", "RD$2,500"),
              ("Video de propiedad (inmobiliarias)", "Video vertical con fotos, precio, metraje y contacto.", "RD$1,500 por propiedad")]
     tabla = "<table class='precios'><tr><th>Servicio</th><th>Qué incluye</th><th>Precio</th></tr>" + "".join(
         f"<tr><td><b>{a}</b></td><td>{b}</td><td>{p}</td></tr>" for a, b, p in filas) + "</table>"
