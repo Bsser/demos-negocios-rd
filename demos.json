@@ -1,2 +1,238 @@
-{"videos": [["Restaurante", "demo-restaurante.mp4"], ["Salón de belleza", "demo-salon.mp4"], ["Inmobiliaria", "demo-inmobiliaria.mp4"]],
- "negocios": []}
+{
+ "videos": [
+  [
+   "Restaurante",
+   "demo-restaurante.mp4"
+  ],
+  [
+   "Salón de belleza",
+   "demo-salon.mp4"
+  ],
+  [
+   "Inmobiliaria",
+   "demo-inmobiliaria.mp4"
+  ]
+ ],
+ "negocios": [
+  {
+   "id": "restaurant-boga-boga",
+   "nombre": "Restaurant Boga Boga",
+   "sector": "restaurante",
+   "ciudad": "Santo Domingo",
+   "direccion": "Av. Bolívar No. 203, Plaza Florida",
+   "telefono": "809-472-0849",
+   "horario": "Lun-Dom 11:00am-11:00pm",
+   "especialidad": "Comida española e internacional",
+   "instagram": "@bogabogard"
+  },
+  {
+   "id": "barra-payan",
+   "nombre": "Barra Payán",
+   "sector": "restaurante",
+   "ciudad": "Santo Domingo",
+   "direccion": "Av. 30 de Marzo No. 140",
+   "telefono": "809-689-6654",
+   "horario": "",
+   "especialidad": "Barra / comida rápida con servicio a domicilio",
+   "instagram": ""
+  },
+  {
+   "id": "reposteria-espanolerias",
+   "nombre": "Repostería y Pastelería Españolerías",
+   "sector": "restaurante",
+   "ciudad": "Santo Domingo",
+   "direccion": "C. Amelia Francasci No. 19",
+   "telefono": "829-980-5315",
+   "horario": "",
+   "especialidad": "Repostería: postres y bizcochos para toda ocasión",
+   "instagram": ""
+  },
+  {
+   "id": "the-liz-restaurant",
+   "nombre": "The Liz Restaurant",
+   "sector": "restaurante",
+   "ciudad": "Santo Domingo",
+   "direccion": "C. Clara Pardo esq. C. Mercedes Amiama",
+   "telefono": "809-929-7298",
+   "horario": "",
+   "especialidad": "Restaurante",
+   "instagram": ""
+  },
+  {
+   "id": "el-tablon-santiago",
+   "nombre": "El Tablón (Operadora ET)",
+   "sector": "restaurante",
+   "ciudad": "Santiago",
+   "direccion": "C. Del Sol No. 12, frente al Monumento de Santiago",
+   "telefono": "809-588-1313",
+   "horario": "",
+   "especialidad": "Comida criolla e internacional",
+   "instagram": ""
+  },
+  {
+   "id": "sopa-andrea",
+   "nombre": "Sopa Andrea",
+   "sector": "restaurante",
+   "ciudad": "Santiago",
+   "direccion": "Carr. Jacagua No. 1, Mercado La Placita",
+   "telefono": "829-989-3412",
+   "horario": "",
+   "especialidad": "Comedor de sopas para el almuerzo",
+   "instagram": ""
+  },
+  {
+   "id": "salon-maxima",
+   "nombre": "Salón Máxima",
+   "sector": "salon",
+   "ciudad": "Santo Domingo",
+   "direccion": "Av. Sarasota No. 71, Plaza Gazebo, Local 105, 1er nivel",
+   "telefono": "809-756-4787",
+   "horario": "",
+   "especialidad": "Salón de belleza",
+   "instagram": ""
+  },
+  {
+   "id": "d-mirian-salon",
+   "nombre": "D' Mirian Salón",
+   "sector": "salon",
+   "ciudad": "Santo Domingo Este",
+   "direccion": "Carr. Mella No. 3, Km 5½",
+   "telefono": "809-788-6848",
+   "horario": "",
+   "especialidad": "Salón de belleza: estética y uñas acrílicas",
+   "instagram": ""
+  },
+  {
+   "id": "salon-carmen",
+   "nombre": "Salón Carmen",
+   "sector": "salon",
+   "ciudad": "Santo Domingo",
+   "direccion": "Calle Dr. Jacinto Ignacio Mañón #41, Plaza Nuevo Sol, Local 12-A, 1er piso",
+   "telefono": "809-683-6336",
+   "horario": "Lun-Sáb 8:00am-7:00pm",
+   "especialidad": "Salón de belleza: cortes, color, extensiones, uñas, maquillaje de novia",
+   "instagram": ""
+  },
+  {
+   "id": "baron-barbershop-vip",
+   "nombre": "Barón BarberShop VIP",
+   "sector": "salon",
+   "ciudad": "Santo Domingo Norte",
+   "direccion": "Av. Los Restauradores #73",
+   "telefono": "849-632-0239",
+   "horario": "Dom-Lun y Mié-Sáb 9:00am-5:00pm; martes cerrado",
+   "especialidad": "Barbería",
+   "instagram": ""
+  },
+  {
+   "id": "inmobiliaria-comercial",
+   "nombre": "Inmobiliaria Comercial",
+   "sector": "inmobiliaria",
+   "ciudad": "Santo Domingo",
+   "direccion": "Av. 27 de Febrero No. 102, Edif. Miguel Mejía, 6ta planta",
+   "telefono": "809-566-7242",
+   "horario": "Lun-Vie 8:00am-4:00pm",
+   "especialidad": "Inmobiliaria",
+   "instagram": ""
+  },
+  {
+   "id": "inmobiliaria-videcasa",
+   "nombre": "Inmobiliaria Videcasa",
+   "sector": "inmobiliaria",
+   "ciudad": "Santo Domingo",
+   "direccion": "Av. José Contreras No. 4",
+   "telefono": "809-687-6700",
+   "horario": "",
+   "especialidad": "Agente de bienes raíces: venta de viviendas",
+   "instagram": ""
+  },
+  {
+   "id": "centro-inmobiliario-dominicano",
+   "nombre": "Centro Inmobiliario Dominicano",
+   "sector": "inmobiliaria",
+   "ciudad": "Santo Domingo",
+   "direccion": "Av. Lope de Vega No. 59, Plaza Lope de Vega, Suite B-10",
+   "telefono": "809-732-8050",
+   "horario": "",
+   "especialidad": "Venta y alquiler de propiedades",
+   "instagram": ""
+  },
+  {
+   "id": "bienes-raices-valera",
+   "nombre": "Bienes Raíces Valera",
+   "sector": "inmobiliaria",
+   "ciudad": "Santo Domingo Este",
+   "direccion": "Carr. Mendoza No. 116, Plaza Julia",
+   "telefono": "809-707-1801",
+   "horario": "",
+   "especialidad": "Manejo y alquiler de inmuebles",
+   "instagram": ""
+  },
+  {
+   "id": "ferreteria-fuente-de-amor",
+   "nombre": "Ferretería Fuente de Amor",
+   "sector": "tienda",
+   "ciudad": "Santo Domingo Oeste",
+   "direccion": "Av. Independencia No. 2, esq. C. Luis Rojas Alou, Km 12",
+   "telefono": "809-274-1818",
+   "horario": "Lun-Sáb 8:00am-6:00pm",
+   "especialidad": "Materiales de construcción, pinturas, block y maderas",
+   "instagram": ""
+  },
+  {
+   "id": "ferreteria-sin-limites",
+   "nombre": "Ferretería Sin Límites",
+   "sector": "tienda",
+   "ciudad": "Santo Domingo Este",
+   "direccion": "Carr. Mandinga No. 85",
+   "telefono": "809-549-1796",
+   "horario": "",
+   "especialidad": "Venta de artículos ferreteros",
+   "instagram": ""
+  },
+  {
+   "id": "ferreteria-plaza-garabito-pichardo",
+   "nombre": "Ferretería Plaza Garabito Pichardo",
+   "sector": "tienda",
+   "ciudad": "Santo Domingo Este",
+   "direccion": "Calle 3 esq. Calle 12",
+   "telefono": "809-766-2925",
+   "horario": "",
+   "especialidad": "Ferretería de barrio",
+   "instagram": ""
+  },
+  {
+   "id": "clean-master-lavanderias",
+   "nombre": "Clean Master Lavanderías",
+   "sector": "otro",
+   "ciudad": "Santo Domingo",
+   "direccion": "C. José Amado Soler No. 56 (en IG: #67)",
+   "telefono": "849-869-6332",
+   "horario": "Lun-Vie 7:30am-7:30pm; Sáb 9:00am-5:00pm",
+   "especialidad": "Lavandería y tintorería",
+   "instagram": "@cleanmasrd"
+  },
+  {
+   "id": "adis-floristeria-balloons",
+   "nombre": "Adis Floristería & Balloons",
+   "sector": "otro",
+   "ciudad": "Santiago",
+   "direccion": "C. Dr. Arturo Grullón No. F-2",
+   "telefono": "849-627-4040",
+   "horario": "Lun-Vie 8:00am-6:00pm; Sáb 8:00am-1:00pm",
+   "especialidad": "Flores naturales y artificiales, arreglos con globos, orquídeas y decoración de eventos",
+   "instagram": "@adisfloristeriard"
+  },
+  {
+   "id": "lavanderia-royal-santiago",
+   "nombre": "Lavandería Royal Súper Dry-Cleaner",
+   "sector": "otro",
+   "ciudad": "Santiago",
+   "direccion": "Av. Rafael Vidal No. 10",
+   "telefono": "849-460-6908",
+   "horario": "",
+   "especialidad": "Lavandería y sastrería",
+   "instagram": ""
+  }
+ ]
+}
