@@ -21,6 +21,7 @@
    "ciudad": "Santo Domingo",
    "direccion": "Av. Bolívar No. 203, Plaza Florida",
    "telefono": "809-472-0849",
+   "wa": false,
    "horario": "Lun-Dom 11:00am-11:00pm",
    "especialidad": "Comida española e internacional",
    "instagram": "@bogabogard"
@@ -32,6 +33,7 @@
    "ciudad": "Santo Domingo",
    "direccion": "Av. 30 de Marzo No. 140",
    "telefono": "809-689-6654",
+   "wa": false,
    "horario": "",
    "especialidad": "Barra / comida rápida con servicio a domicilio",
    "instagram": ""
@@ -43,6 +45,7 @@
    "ciudad": "Santo Domingo",
    "direccion": "C. Amelia Francasci No. 19",
    "telefono": "829-980-5315",
+   "wa": true,
    "horario": "",
    "especialidad": "Repostería: postres y bizcochos para toda ocasión",
    "instagram": ""
@@ -54,6 +57,7 @@
    "ciudad": "Santo Domingo",
    "direccion": "C. Clara Pardo esq. C. Mercedes Amiama",
    "telefono": "809-929-7298",
+   "wa": true,
    "horario": "",
    "especialidad": "Restaurante",
    "instagram": ""
@@ -65,6 +69,7 @@
    "ciudad": "Santiago",
    "direccion": "C. Del Sol No. 12, frente al Monumento de Santiago",
    "telefono": "809-588-1313",
+   "wa": true,
    "horario": "",
    "especialidad": "Comida criolla e internacional",
    "instagram": ""
@@ -76,6 +81,7 @@
    "ciudad": "Santiago",
    "direccion": "Carr. Jacagua No. 1, Mercado La Placita",
    "telefono": "829-989-3412",
+   "wa": true,
    "horario": "",
    "especialidad": "Comedor de sopas para el almuerzo",
    "instagram": ""
@@ -87,6 +93,7 @@
    "ciudad": "Santo Domingo",
    "direccion": "Av. Sarasota No. 71, Plaza Gazebo, Local 105, 1er nivel",
    "telefono": "809-756-4787",
+   "wa": true,
    "horario": "",
    "especialidad": "Salón de belleza",
    "instagram": ""
@@ -98,6 +105,7 @@
    "ciudad": "Santo Domingo Este",
    "direccion": "Carr. Mella No. 3, Km 5½",
    "telefono": "809-788-6848",
+   "wa": false,
    "horario": "",
    "especialidad": "Salón de belleza: estética y uñas acrílicas",
    "instagram": ""
@@ -109,6 +117,7 @@
    "ciudad": "Santo Domingo",
    "direccion": "Calle Dr. Jacinto Ignacio Mañón #41, Plaza Nuevo Sol, Local 12-A, 1er piso",
    "telefono": "809-683-6336",
+   "wa": false,
    "horario": "Lun-Sáb 8:00am-7:00pm",
    "especialidad": "Salón de belleza: cortes, color, extensiones, uñas, maquillaje de novia",
    "instagram": ""
@@ -120,6 +129,7 @@
    "ciudad": "Santo Domingo Norte",
    "direccion": "Av. Los Restauradores #73",
    "telefono": "849-632-0239",
+   "wa": true,
    "horario": "Dom-Lun y Mié-Sáb 9:00am-5:00pm; martes cerrado",
    "especialidad": "Barbería",
    "instagram": ""
@@ -131,6 +141,7 @@
    "ciudad": "Santo Domingo",
    "direccion": "Av. 27 de Febrero No. 102, Edif. Miguel Mejía, 6ta planta",
    "telefono": "809-566-7242",
+   "wa": false,
    "horario": "Lun-Vie 8:00am-4:00pm",
    "especialidad": "Inmobiliaria",
    "instagram": ""
@@ -142,6 +153,7 @@
    "ciudad": "Santo Domingo",
    "direccion": "Av. José Contreras No. 4",
    "telefono": "809-687-6700",
+   "wa": false,
    "horario": "",
    "especialidad": "Agente de bienes raíces: venta de viviendas",
    "instagram": ""
@@ -153,6 +165,7 @@
    "ciudad": "Santo Domingo",
    "direccion": "Av. Lope de Vega No. 59, Plaza Lope de Vega, Suite B-10",
    "telefono": "809-732-8050",
+   "wa": false,
    "horario": "",
    "especialidad": "Venta y alquiler de propiedades",
    "instagram": ""
@@ -164,6 +177,7 @@
    "ciudad": "Santo Domingo Este",
    "direccion": "Carr. Mendoza No. 116, Plaza Julia",
    "telefono": "809-707-1801",
+   "wa": true,
    "horario": "",
    "especialidad": "Manejo y alquiler de inmuebles",
    "instagram": ""
@@ -175,6 +189,7 @@
    "ciudad": "Santo Domingo Oeste",
    "direccion": "Av. Independencia No. 2, esq. C. Luis Rojas Alou, Km 12",
    "telefono": "809-274-1818",
+   "wa": true,
    "horario": "Lun-Sáb 8:00am-6:00pm",
    "especialidad": "Materiales de construcción, pinturas, block y maderas",
    "instagram": ""
@@ -186,6 +201,7 @@
    "ciudad": "Santo Domingo Este",
    "direccion": "Carr. Mandinga No. 85",
    "telefono": "809-549-1796",
+   "wa": false,
    "horario": "",
    "especialidad": "Venta de artículos ferreteros",
    "instagram": ""
@@ -197,6 +213,7 @@
    "ciudad": "Santo Domingo Este",
    "direccion": "Calle 3 esq. Calle 12",
    "telefono": "809-766-2925",
+   "wa": false,
    "horario": "",
    "especialidad": "Ferretería de barrio",
    "instagram": ""
@@ -208,6 +225,7 @@
    "ciudad": "Santo Domingo",
    "direccion": "C. José Amado Soler No. 56 (en IG: #67)",
    "telefono": "849-869-6332",
+   "wa": true,
    "horario": "Lun-Vie 7:30am-7:30pm; Sáb 9:00am-5:00pm",
    "especialidad": "Lavandería y tintorería",
    "instagram": "@cleanmasrd"
@@ -219,6 +237,7 @@
    "ciudad": "Santiago",
    "direccion": "C. Dr. Arturo Grullón No. F-2",
    "telefono": "849-627-4040",
+   "wa": true,
    "horario": "Lun-Vie 8:00am-6:00pm; Sáb 8:00am-1:00pm",
    "especialidad": "Flores naturales y artificiales, arreglos con globos, orquídeas y decoración de eventos",
    "instagram": "@adisfloristeriard"
@@ -230,6 +249,7 @@
    "ciudad": "Santiago",
    "direccion": "Av. Rafael Vidal No. 10",
    "telefono": "849-460-6908",
+   "wa": true,
    "horario": "",
    "especialidad": "Lavandería y sastrería",
    "instagram": ""

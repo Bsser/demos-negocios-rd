@@ -51,7 +51,8 @@ def demo(n):
     titulo_sec, items = SECCIONES.get(n["sector"], SECCIONES["otro"])
     w = wa(n.get("telefono", ""))
     mapa = "https://www.google.com/maps/search/?api=1&query=" + urllib.parse.quote(f"{n['nombre']} {n.get('direccion') or n['ciudad']}")
-    botones = (f"<a class='btn' href='{w}'>Escríbenos por WhatsApp</a>" if w else "") + f"<a class='btn sec' href='{mapa}'>Cómo llegar</a>"
+    tel = "".join(c for c in n.get("telefono", "") if c.isdigit())
+    botones = (f"<a class='btn' href='{w}'>Escríbenos por WhatsApp</a>" if w and n.get("wa") else f"<a class='btn' href='tel:+1{tel}'>Llámanos</a>" if tel else "") + f"<a class='btn sec' href='{mapa}'>Cómo llegar</a>"
     info = "".join(f"<p><b>{k}:</b> {e(v)}</p>" for k, v in [("Dirección", n.get("direccion", "")), ("Horario", n.get("horario", "")),
                                                           ("Teléfono", n.get("telefono", "")), ("Instagram", n.get("instagram", ""))] if v)
     cuerpo = (f"<div class='aviso'>Página de muestra hecha por Jarvis Digital RD para {e(n['nombre'])}. No es su sitio oficial.</div>"
