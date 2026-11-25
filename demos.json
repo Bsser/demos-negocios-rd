@@ -207,18 +207,6 @@
    "instagram": ""
   },
   {
-   "id": "ferreteria-plaza-garabito-pichardo",
-   "nombre": "Ferretería Plaza Garabito Pichardo",
-   "sector": "tienda",
-   "ciudad": "Santo Domingo Este",
-   "direccion": "Calle 3 esq. Calle 12",
-   "telefono": "809-766-2925",
-   "wa": false,
-   "horario": "",
-   "especialidad": "Ferretería de barrio",
-   "instagram": ""
-  },
-  {
    "id": "clean-master-lavanderias",
    "nombre": "Clean Master Lavanderías",
    "sector": "otro",
