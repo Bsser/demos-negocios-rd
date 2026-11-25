@@ -1,0 +1,13 @@
+*{box-sizing:border-box}body{margin:0;font:17px/1.6 system-ui,"Segoe UI",Arial,sans-serif;color:#1b1f24;background:#fff}
+.aviso{background:#fff6d6;color:#5b4a00;font-size:13px;text-align:center;padding:6px 12px}
+.hero{background:var(--c);color:#fff;padding:56px 16px 48px;text-align:center}
+.hero h1{font-size:clamp(30px,7vw,52px);line-height:1.1;margin:0 0 10px}.hero p{font-size:19px;opacity:.95;margin:0 auto 22px;max-width:640px}
+.btn{display:inline-block;background:#25d366;color:#08311a;font-weight:800;padding:14px 24px;border-radius:999px;text-decoration:none;margin:4px}
+.btn.sec{background:#fff;color:var(--c)}
+main{max-width:900px;margin:0 auto;padding:8px 16px 40px}h2{color:var(--c);margin-top:36px}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(190px,1fr));gap:14px;padding:0;list-style:none}
+.grid li{background:var(--f);border-radius:14px;padding:18px;font-weight:700}.grid small{display:block;font-weight:400;color:#5b6470}
+.info{background:var(--f);border-radius:14px;padding:18px 20px}.info p{margin:6px 0}
+footer{text-align:center;color:#5b6470;font-size:13px;padding:24px 16px 40px;border-top:1px solid #e3e6ea}
+.precios td,.precios th{border-bottom:1px solid #e3e6ea;padding:10px 8px;text-align:left;vertical-align:top}.precios{border-collapse:collapse;width:100%}
+video{width:100%;max-width:320px;border-radius:14px;display:block;margin:10px 0}
